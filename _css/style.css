@@ -1,0 +1,46 @@
+nav#menu ul{
+    text-transform: uppercase;
+    list-style: none;
+    position: absolute;
+    top:60px;
+    left:855px;
+}
+nav#menu li{
+    display:inline-block;
+    background-color:rgba(94, 201, 126, 0.801);
+    padding: 10px;
+}
+nav#menu h1 {
+    display: none;
+}
+body{
+    background-color: aquamarine;
+    margin: 0px;
+}
+header{
+    background-color: rgba(180, 173, 173, 0.747);
+    padding-top:60px;
+    margin: 0px;
+    position: relative;
+    top: -10px;
+}
+img{
+    width: 15%;
+    position:relative;
+    left: 25px;
+    top: 5px;
+}
+nav#menu a:link{
+    text-decoration: none;
+    color:black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+nav#menu a:visited{
+    color:black
+}
+nav#menu a:hover{
+    color:antiquewhite;
+    transition: 0.5s ease;
+    
+}
