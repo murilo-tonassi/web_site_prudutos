@@ -15,9 +15,9 @@ inserimos a descrição dos produtos
 ## Composição do projeto 🛠️
 Nesta seção será feita uma breve descrição de como o projeto do website foi organizado
 
-** Tela de Início
-** Página de produtos
-** Página Sobre
-** Página Contato
+* Tela de Início
+* Página de produtos
+* Página Sobre
+* Página Contato
 
 
