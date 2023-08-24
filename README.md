@@ -1,4 +1,4 @@
-# web_site_prudutos
+# Projeto - Website de venda de produtos
 
 projeto web site de produtos desenvolvido no segundo trimestre
 
