@@ -1,23 +1,43 @@
-# Projeto - Website de venda de produtos
+# Índice
 
-projeto web site de produtos desenvolvido no segundo trimestre
+* [projeto-de-escrita-readme]( #projeto-de-escrita-readme)
+* [descrição](#descrição)
+* [Introdução](#introdução)
+* [funcionalidae](#funcionalidade)
+* [tecnologias-utilizadas](#funcionalidade)
+* [fontes-consultadas](#fontes-consultadas)
+* [produto-a-ser-vendido](#produto-a-ser-vendido)
 
-foi escolhido o tema do produto para aplicar no web site
+# Projeto de escrita README ⚒️
 
-inserimos a descrição dos produtos
+## Descrição 📄
+- Breve Descrição
 
-## Tecnologias utilizadas
+## Introdução 📱
+- documentação de projeto web site de produtos
+
+## Funcionalidade 🧠
+- Documentação de arquivo README no web site de produtos
+
+## Tecnologias utilizadas 💡
+- VScode; GitHUub; One Drive; HTML5; CSS
 
 
-## Produto a ser vendido
+## Fontes consultadas 👨🏻‍💻
+- https://shopee.com.br/ 
+- https://www.alura.com.br/artigos/escrever-bom-readme
 
 
-## Composição do projeto 🛠️
-Nesta seção será feita uma breve descrição de como o projeto do website foi organizado
+## Produto a ser vendido 👕
+- Camisetas
+- Bermudas
+- Chinelo
+- Blusa de Frio
+- Calças
 
-* Tela de Início
-* Página de produtos
-* Página Sobre
-* Página Contato
+
+
+
+
 
 
