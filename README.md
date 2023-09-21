@@ -17,7 +17,7 @@
 - documentação de projeto web site de produtos
 
 ## Funcionalidade 🧠
-- Documentação de arquivo README no web site de produtos
+- Trabalhar na documentação de arquivo README no web site de produtos
 
 ## Tecnologias utilizadas 💡
 - VScode; GitHUub; One Drive; HTML5; CSS
